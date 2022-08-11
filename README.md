@@ -12,7 +12,7 @@ After a three-year Covid-19 pandemic, travel and tourism is back. Helping future
 
 - Python: Python v3.7.6, Dependencies: Pandas, Matplotlib, CitiPy, SciPy, Python Requests, APIs, JSON Traversals.
 
-- API on the Google Cloud Platform
+- API on the Google Cloud Platform.
 
 
 ## Vacation Search
